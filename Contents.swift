@@ -1,3 +1,5 @@
+// ini untuk header
+
 import UIKit
 
 let request = URLRequest(url: URL(string: "https://api.rawg.io/api/games")!)
