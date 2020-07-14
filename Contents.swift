@@ -1,3 +1,5 @@
+//header tambahan
+
 import UIKit
 
 let request = URLRequest(url: URL(string: "https://api.rawg.io/api/games")!)
@@ -79,3 +81,4 @@ private func decodeJSON(data: Data) {
     
 
 // ini percobaan kedua
+// ini adalah footer
